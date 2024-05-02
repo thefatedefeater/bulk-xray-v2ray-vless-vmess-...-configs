@@ -5,12 +5,12 @@
 This Python script scrapes V2Ray configuration links from various Telegram channels and saves them by region.
 <br>
 <br>
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs)
 [![GPL-3.0 License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](./LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=for-the-badge)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/issues)
-[![GitHub stars](https://img.shields.io/github/stars/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=for-the-badge)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/stargazers)
-![GitHub forks](https://img.shields.io/github/forks/Epodonios/V2rayCollector_py?style=for-the-badge)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Epodonios/V2rayCollector_py?style=for-the-badge)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs?style=for-the-badge)](https://github.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs?style=for-the-badge)](https://github.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/ thefatedefeater/V2rayCollector_py?style=for-the-badge)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/ thefatedefeater/V2rayCollector_py?style=for-the-badge)](https://github.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/pulls)
 
 
 >. ᛟvᛖᚱvᛁᛖᚹ
@@ -58,27 +58,27 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Sub
 | Sub |
 |-----|
-| [Austria](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Austria/config.txt) |
-| [Finland](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Finland/config.txt) |
-| [Iran](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Iran/config.txt) |
-| [Russia](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Russia/config.txt) |
-| [Ireland](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Ireland/config.txt) |
-| [Indonesia](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Indonesia/config.txt) |
-| [Canada](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Canada/config.txt) |
-| [Singapore](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Singapore/config.txt) |
-| [Costa Rica](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Costa%20Rica/config.txt) |
-| [United Arab Emirates](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20Arab%20Emirates/config.txt) |
-| [Turkey](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Turkey/config.txt) |
-| [Germany](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Germany/config.txt) |
-| [France](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/France/config.txt) |
-| [Sweden](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Sweden/config.txt) |
-| [United Kingdom](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20Kingdom/config.txt) |
-| [Belize](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Belize/config.txt) |
-| [Curaçao](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Cura%C3%A7ao/config.txt) |
-| [Republic of Lithuania](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Republic%20of%20Lithuania/config.txt) |
-| [United States](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20States/config.txt) |
-| [Bahrain](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Bahrain/config.txt) |
-| [Netherlands](https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Netherlands/config.txt) |
+| [Austria](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Austria/config.txt) |
+| [Finland](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Finland/config.txt) |
+| [Iran](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Iran/config.txt) |
+| [Russia](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Russia/config.txt) |
+| [Ireland](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Ireland/config.txt) |
+| [Indonesia](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Indonesia/config.txt) |
+| [Canada](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Canada/config.txt) |
+| [Singapore](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Singapore/config.txt) |
+| [Costa Rica](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Costa%20Rica/config.txt) |
+| [United Arab Emirates](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20Arab%20Emirates/config.txt) |
+| [Turkey](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Turkey/config.txt) |
+| [Germany](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Germany/config.txt) |
+| [France](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/France/config.txt) |
+| [Sweden](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Sweden/config.txt) |
+| [United Kingdom](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20Kingdom/config.txt) |
+| [Belize](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Belize/config.txt) |
+| [Curaçao](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Cura%C3%A7ao/config.txt) |
+| [Republic of Lithuania](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Republic%20of%20Lithuania/config.txt) |
+| [United States](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20States/config.txt) |
+| [Bahrain](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Bahrain/config.txt) |
+| [Netherlands](https://raw.githubusercontent.com/ thefatedefeater/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Netherlands/config.txt) |
 
 
 
