@@ -154,6 +154,7 @@ vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@thorianite.toptechnonews.com:443?pa
 vless://505094ea-297c-496a-af29-ed33db58f820@www.speedtest.net.cdn.PaGeS.Dev:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=speedtest.net.ir.com.site.%E4%BA%8B%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.ir.novaball.lINK.&type=ws#%40V2rayNG3
 vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@vahem.minusober.com:443?path=%2Fvahem&security=tls&encryption=none&type=ws&sni=vahem.minusober.com#%40V2rayNG3
 vless://b33b8d28-14d2-4325-80e0-3331ed080b1d@cdn.discordapp.com:2083?path=%2Fvless-ws%2F%3Fed%3D2048&security=tls&encryption=none&host=freev2fwfjkn.mahdi-zarei1436.workers.dev&type=ws&sni=freev2fwfjkn.mahdi-zarei1436.workers.dev#%40V2rayNG3
+vless://ad19c2cb-202e-4126-a004-265737ca4006@visa.com:8443?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=telegram-falcunargo-turky.falcunar.asso.eu.org&type=ws&sni=telegram-falcunargo-turky.falcunar.asso.eu.org#%40V2rayNG3
 vless://c3e6dd5b-a6bc-4a78-8b40-cb0dd8fa72ee@zula.ir:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%40V2rayNG3
 vless://25aa0bd2-d457-472f-973b-2027cdf9eef3@zula.ir:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&host=232214454546.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws#%40V2rayNG3
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:80?path=%2Fusers%3Fed%3D2048&security=none&encryption=none&host=ada36.qvqag.com&type=ws#%40V2rayNG3
