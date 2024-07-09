@@ -136,6 +136,7 @@ vless://-DIGIV2RAY--@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&secu
 vless://-DIGIV2RAY--@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://--DIGIV2RAY--@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#%40Digiv2ray-2
 vless://--DIGIV2RAY--@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
+vless://---DIGIV2RAY--@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#%40Digiv2ray-2
 vless://---DIGIV2RAY--@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
 vless://---DIGIV2RAY---@www.Speedtest.Net:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#%40Digiv2ray-2
 vless://---DIGIV2RAY---@zula.ir:2095?path=%2FDigiconnecT%3Fed%3D1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%40Digiv2ray-1
